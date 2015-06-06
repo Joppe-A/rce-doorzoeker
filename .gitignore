@@ -183,3 +183,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# project specific ignores
+Util/*.xml
+RceDoorzoeker/Properties/PublishProfiles/AT.pubxml

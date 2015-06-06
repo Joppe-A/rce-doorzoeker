@@ -1,0 +1,12 @@
+RCE Doorzoeker
+   
+Copyright 2013 Cultural Heritage Agency of the Netherlands.
+
+This product was developed by Fubineva for the Cultural Heritage Agency 
+of the Netherlands.
+
+This products makes use an proprietary library, named "RnaRemote", to communicate 
+with the RNA Toolset from Trezorix bv. Copies of this library are not included with 
+this distribution and can be obtained through the Cultural Heritage Agency of 
+the Netherlands or from Trezorix directly.
+
