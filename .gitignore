@@ -184,6 +184,9 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
+# Resharper
+*.DotSettings
+
 # project specific ignores
 Util/*.xml
 RceDoorzoeker/Properties/PublishProfiles/AT.pubxml
