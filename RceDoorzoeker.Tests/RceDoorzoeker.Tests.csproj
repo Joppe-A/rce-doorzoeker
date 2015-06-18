@@ -91,7 +91,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Trezorix.RnaRemote">
-      <HintPath>..\lib\rna remote 3.9\Trezorix.RnaRemote.dll</HintPath>
+      <HintPath>..\lib\Trezorix.RnaRemote.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
