@@ -6,7 +6,7 @@ This product was developed by Fubineva for the Cultural Heritage Agency
 of the Netherlands.
 
 This products makes use an proprietary library, named "RnaRemote", to communicate 
-with the RNA Toolset from Trezorix bv. Copies of this library are not included with 
-this distribution and can be obtained through the Cultural Heritage Agency of 
-the Netherlands or from Trezorix directly.
+with the RNA Toolset from Trezorix bv. This library can be freely distributed and used without 
+limitations in binary form. Source code is currently not available.
 
+All other libraries have permissive open source licenses.
