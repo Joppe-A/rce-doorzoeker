@@ -1,5 +1,3 @@
-![RCE Doorzoeker](http://doorzoeker.cultureelerfgoed.nl/Content/images/doorzoeker-logo-2a.png)
-
 RCE Doorzoeker
 ==============
 
